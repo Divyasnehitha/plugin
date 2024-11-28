@@ -1,0 +1,7 @@
+Ways to make .vsix file
+    npm install -g vsce
+    vsce package
+Opening VS Code.
+Going to the Extensions view (Ctrl+Shift+X).
+Clicking the ... menu at the top-right and selecting Install from VSIX....
+Selecting the .vsix file you provided.
